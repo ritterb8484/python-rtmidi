@@ -4,6 +4,7 @@ requires = [
     "cython",
     "wheel",
     "meson-python",
+    "setuptools",
     "ninja"
 ]
 
